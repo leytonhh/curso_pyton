@@ -1,3 +1,6 @@
+from tkinter import N
+
+
 print("Hola mundo")
 
 
@@ -9,3 +12,6 @@ edad = 15
 
 print('Nombre:', nombre)
 print('Edad:', edad )
+
+
+print(f'Nombre: {nombre} \nEdad: {edad}')
